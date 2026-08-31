@@ -38,8 +38,8 @@ const jsonLd = {
   url: "https://omar-huitzil-portfolio.vercel.app",
   jobTitle: "Data Science & Machine Learning Engineer",
   sameAs: [
-    "https://github.com/tu-usuario",
-    "https://linkedin.com/in/tu-usuario",
+    "https://github.com/Huitzilinoa007/omar-huitzil-portfolio",
+    "www.linkedin.com/in/omar-alejandro-huitzil-cruz-a014922a5",
   ],
 };
 
